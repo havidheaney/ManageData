@@ -1,0 +1,60 @@
+=== System === 
+
+--- System Info ---
+Snapshot Time: 14/10/2025, 09:36:49 BST
+Board Name: treeya360
+Marketing Name: 
+CpuModel Name: AMD A4-9120C RADEON R4, 5 COMPUTE CORES 2C+3G
+Total Memory (kib): 4194304
+Thread Count:  2
+Cpu Max Clock Speed (kHz):  1600000
+Version: 139.16328.0
+Has Battery: true
+
+--- Battery Charge Status ---
+Battery State: kDischarging
+Power Source: kDisconnected
+Power Time: 6 hours and 4 minutes
+Current Now (mA): 324
+Chage Now (mAh): 3016
+
+--- Battery Health ---
+Charge Full Now (mAh): 3796
+Charge Full Design (mAh): 4104
+Cycle Count: 243
+Wear Percentage: 92
+
+--- Memory Usage ---
+Total Memory (kib): 4194304
+Available Memory (kib): 2234424
+Free Memory (kib): 1717332
+
+--- Cpu Usage ---
+Usage User (%): 10
+Usage System (%): 3
+Usage Free (%): 86
+Avg Temp (C): 26
+Current scaled frequency (kHz): 1572528
+
+
+--- Test Routines --- 
+
+14/10/2025, 09:31:50 - CpuStress - Started
+14/10/2025, 09:32:52 - CpuStress - Passed
+14/10/2025, 09:32:53 - CpuCache - Started
+14/10/2025, 09:33:56 - CpuCache - Passed
+14/10/2025, 09:33:56 - CpuFloatingPoint - Started
+14/10/2025, 09:34:57 - CpuFloatingPoint - Passed
+14/10/2025, 09:34:57 - CpuPrime - Started
+14/10/2025, 09:35:58 - CpuPrime - Passed
+
+=== Networking === 
+
+--- Network Info ---
+
+--- Test Routines --- 
+
+No routines of this type were run in the session.
+
+--- Network Events ---
+
